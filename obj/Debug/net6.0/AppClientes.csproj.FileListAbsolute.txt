@@ -1,0 +1,15 @@
+C:\AppClientes\AppClientes\bin\Debug\net6.0\AppClientes.exe
+C:\AppClientes\AppClientes\bin\Debug\net6.0\AppClientes.deps.json
+C:\AppClientes\AppClientes\bin\Debug\net6.0\AppClientes.runtimeconfig.json
+C:\AppClientes\AppClientes\bin\Debug\net6.0\AppClientes.dll
+C:\AppClientes\AppClientes\bin\Debug\net6.0\AppClientes.pdb
+C:\AppClientes\AppClientes\obj\Debug\net6.0\AppClientes.csproj.AssemblyReference.cache
+C:\AppClientes\AppClientes\obj\Debug\net6.0\AppClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppClientes\AppClientes\obj\Debug\net6.0\AppClientes.AssemblyInfoInputs.cache
+C:\AppClientes\AppClientes\obj\Debug\net6.0\AppClientes.AssemblyInfo.cs
+C:\AppClientes\AppClientes\obj\Debug\net6.0\AppClientes.csproj.CoreCompileInputs.cache
+C:\AppClientes\AppClientes\obj\Debug\net6.0\AppClientes.dll
+C:\AppClientes\AppClientes\obj\Debug\net6.0\refint\AppClientes.dll
+C:\AppClientes\AppClientes\obj\Debug\net6.0\AppClientes.pdb
+C:\AppClientes\AppClientes\obj\Debug\net6.0\AppClientes.genruntimeconfig.cache
+C:\AppClientes\AppClientes\obj\Debug\net6.0\ref\AppClientes.dll
